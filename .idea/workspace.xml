@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="886c4fc4-08d3-4cf8-8cfc-271a9fb8f3d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/build_publish.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/morphir-dapr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publisher/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publisher/node-publisher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publisher/node-publisher.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publisher/node-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publisher/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publisher/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Company/Operations/BooksAndRecords.elm" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects>
+      <project path="$PROJECT_DIR$/elm.json" />
+    </elmProjects>
+    <settings elmCompilerPath="/usr/local/bin/elm" elmFormatPath="/usr/local/bin/elm-format" elmTestPath="/usr/local/bin/elm-test" isElmFormatOnSaveEnabled="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Elm Module" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1atzcwwuT1FBYTjur2xsYw6jMal" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.elm.workspace.ui.ElmWorkspaceConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ELM_TEST_RUN_CONFIGURATION" factoryName="Elm Test configuration factory">
+      <ElmTestRunConfiguration elm-folder="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/assessment-task-20190627" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="886c4fc4-08d3-4cf8-8cfc-271a9fb8f3d8" name="Default Changelist" comment="" />
+      <created>1587569760223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587569760223</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added example">
+      <created>1587570908334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587570908334</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed books and records image version to latest in workflow and kube config">
+      <created>1587571362983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587571362984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added example" />
+    <MESSAGE value="Changed books and records image version to latest in workflow and kube config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed books and records image version to latest in workflow and kube config" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="51" key="CommitChangelistDialog2" timestamp="1587571362658">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="353" y="51" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587571362658" />
+    <state x="508" y="212" key="FileChooserDialogImpl" timestamp="1587569876888">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="212" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1587569876887" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1587569866424">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587569866424" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587570012340">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587570012340" />
+  </component>
+</project>
